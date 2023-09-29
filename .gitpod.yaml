@@ -1,0 +1,5 @@
+image: gitpod/workspace-full
+
+tasks:
+  - init: curl https://i.jpillora.com/okp4/okp4d@v5.0.0! | bash
+    name: Install OKP4 CLI
