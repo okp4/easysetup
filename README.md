@@ -25,6 +25,14 @@ The commands from the [tutorials](https://docs.okp4.network/tutorials/overview) 
 - The [rules](./rule) folder provides all necessary code for understanding and practicing rules definition using the Prolog language.
 - In the [semantic](./semantic) folder, you'll find all pieces of code needed to grasp and practice expressing semantic metadata with RDF triples.
 
+### Usage
+
+Checkout the command in the `.sh` file, change the parameter if needed, and execute it. For example:
+
+```shell
+bash account/1a_import_wallet.sh
+```
+
 ## 🧪 OKP4 Testnet
 
 - RPC: <https://api.testnet.okp4.network/rpc>
