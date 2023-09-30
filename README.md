@@ -30,7 +30,8 @@ The commands from the [tutorials](https://docs.okp4.network/tutorials/overview) 
 Checkout the command in the `.sh` file, change the parameter if needed, and execute it. For example:
 
 ```shell
-bash account/1a_import_wallet.sh
+cd account
+bash 1a_import_wallet.sh
 ```
 
 ## 🧪 OKP4 Testnet
