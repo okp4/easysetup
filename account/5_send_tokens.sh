@@ -1,3 +1,4 @@
+#!/bin/bash
 # Replace "mywallet" with your wallet name and okp41r0pf2d78w8w29sm9a6qm8x6yqshezm0k6vwcrg to change the receiver address
 okp4d tx bank send mywallet okp41r0pf2d78w8w29sm9a6qm8x6yqshezm0k6vwcrg \
 500000uknow \

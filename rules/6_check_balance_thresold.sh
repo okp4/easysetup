@@ -1,3 +1,4 @@
+#!/bin/bash
 # Rules & query example from account balace
 #
 # Prolog program:

@@ -1,3 +1,4 @@
+#!/bin/bash
 # instantiate a cognitarium (code id = 7) smart contract
 # see https://docs.okp4.network/contracts/okp4-cognitarium#instantiatemsg
 # replace okp41cu9wzlcyyxpek20jaqfwzu3llzjgx34cwnv2v5 by your wallet address

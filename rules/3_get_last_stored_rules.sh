@@ -1,3 +1,4 @@
+#!/bin/bash
 okp4d query wasm contract-state smart okp41lppz4x9dtmccek2m6cezjlwwzup6pdqrkvxjpk95806c3dewgrfq602kgx \
 --output json \
 --chain-id okp4-nemeton-1 \

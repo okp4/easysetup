@@ -1,3 +1,4 @@
+#!/bin/bash
 # insert triples from a file in a cognitarium instance (okp41wn625s4jcmvk0szpl85rj5azkfc6suyvf75q6vrddscjdphtve8sug4ars)
 # you should replace the smart contract address as you can only insert in a database (cognitarium instance) you created
 # execute an 'insert_data' message, see https://docs.okp4.network/contracts/okp4-cognitarium#executemsginsertdata
