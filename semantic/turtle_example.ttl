@@ -1,0 +1,6 @@
+@prefix ex: <http://example.com/stuff/1.0/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ex:Alice a <http://www.w3.org/2002/07/owl#Person> ;
+         ex:hasAge "30"^^xsd:integer ;
+         ex:hasEmail "alice@example.com" .
