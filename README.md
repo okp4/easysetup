@@ -13,7 +13,7 @@ OKP4 aims to enable a new generation of applications using blockchain as an orch
 
 Before you begin, ensure you have a [Gitpod account](https://gitpod.io/). If it's your first time using Gitpod, you'll need to connect your GitHub account to your Gitpod account. Follow the prompts during the initial launch to set this up.
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/okp4/hackmos)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/okp4/easysetup)
 
 Click the button above, and Gitpod will launch a configured workspace with ready-to-run scripts and a straightforward setup process, allowing you to dive into the OKP4 protocol effortlessly!
 
