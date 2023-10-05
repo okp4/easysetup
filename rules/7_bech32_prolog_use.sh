@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -euo pipefail
+
 # Want to know the Stargaze (stars) address from an OKP4 one?
 # Here is an example to get it from okp416rry8kjuzpxezhf4g4lvjk67mkjc95lterek2u:
 okp4d query logic ask \

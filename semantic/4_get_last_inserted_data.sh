@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -euo pipefail
+
 okp4d query txs \
     --events 'wasm.action=insert' \
     --chain-id okp4-nemeton-1 \

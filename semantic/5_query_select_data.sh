@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -euo pipefail
+
 # select query, see https://docs.okp4.network/contracts/okp4-cognitarium#selectquery
 okp4d query wasm contract-state smart okp41wn625s4jcmvk0szpl85rj5azkfc6suyvf75q6vrddscjdphtve8sug4ars \
     --chain-id okp4-nemeton-1 \

@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -euo pipefail
+
 # instantiate a law stone (code id = 5) smart contract
 # see https://docs.okp4.network/contracts/okp4-law-stone#instantiatemsg
 # replace mywallet with your wallet name

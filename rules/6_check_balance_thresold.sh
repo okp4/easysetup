@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -euo pipefail
+
 # Rules & query example from account balace
 #
 # Prolog program:
